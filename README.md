@@ -3,6 +3,6 @@
 
 Author - Aausuman Deep
 Start Date - 13 October 2020
-Start Time - 3:50 pm
+End Date - 14 October 2020
 
-This assignment has been done with Python onto a Jupyter notebook. Other ways of doing it could be by using pySpark as well
+This assignment has been done with Python onto a Jupyter notebook.
